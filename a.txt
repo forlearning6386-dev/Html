@@ -1,0 +1,147 @@
+   20  git checkout -b "addh1whichsayhwy3"
+   21  git checkout addh1whichsayhwy3
+   22  git commit -m "add a h1 which says hey3"
+   23  git push -u origin addh1whichsayhwy3
+   24  cleasr
+   25  git checkout -b "addh1whichsayhwy4"
+   26  git checkout addh1whichsayhwy4
+   27  git commit -m "add a h1 which says hey4"
+   28  git push -u origin addh1whichsayhwy4
+   29  git config --global user.name "Your Name"\ngit config --global user.email "your_email@example.com"\n
+   30  echo "# mergeconflict" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/forlearning6386-dev/mergeconflict.git\ngit push -u origin main
+   31  git remote add origin https://github.com/forlearning6386-dev/mergeconflict.git
+   32  git remote add origin https://github.com/forlearning6386-dev/mergeconflict.gitgit remote add origin https://github.com/forlearning6386-dev/mergeconflict.git
+   33  git remote set-url origin https://github.com/forlearning6386-dev/mergeconflict.git
+   34  git add .\ngit commit -m "Add project files"\ngit push -u origin main
+   35  git init
+   36  git remote add origin https://github.com/forlearning6386-dev/mergeconflict.git\ngit branch -M main\ngit push -u origin main
+   37  printf "protocol=https\nhost=github.com\n\n" | git credential-osxkeychain erase
+   38  git remote add origin https://github.com/forlearning6386-dev/mergeconflict.git\n
+   39  git remote set-url origin https://YOUR_TOKEN_HERE@github.com/forlearning6386-dev/mergeconflict.git
+   40  git commit -m "Initial commit"
+   41  =
+   42  git checkout -b feature-title
+   43  git commit -am "Update heading on feature branch"
+   44  git merge feature-title
+   45  git push feature-title
+   46  mkdir conflict-demo\ncd conflict-demo\ngit init
+   47  code .
+   48  echo "# Merge" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/forlearning6386-dev/Merge.git\ngit push -u origin main
+   49  git commit -am "Update heading on main branch"
+   50  git checkout -b m2
+   51  git add index.html\ngit commit -m "Update headline on feature branch"
+   52  git add index.html\ngit commit -m "Update headline on main branch"
+   53  git merge feature-branch
+   54  git merge m2
+   55  git commit -m "Update headline on main branch"
+   56  git push -u origin m2
+   57  git push -u origin main
+   58  git checkout m2
+   60  git push -orign main
+   61  git push -origin main
+   62  git push main
+   63  git checkout m
+   64  git commit -m "add m in m breanch"
+   65  git checkout mm
+   66  git remote set-url origin https://github.com/fordevelopment6386-star/Merge.git
+   67  git commit -m "addin mm to m "
+   68  git checkout -b mm
+   69  git push origin mm
+   70  git checkout -b mmm
+   71  git push origin mmm
+   72  git remote -v
+   73  git remote set-url origin https://github.com/forlearning6388-dev/Merge.git
+   74  git remote set-url origin https://github.com/forlearning6386-dev/Merge.git
+   75  git checkout -d m
+   76  git checkout -b m
+   78  git commit -m "addin mm to mm "
+   79  git push origin m
+   80  git status
+   81  git branches
+   82  git commit
+   83  git revart 9be9cc058f593a8f1eec0ca1be704356472f85f7
+   84  git revert -e git revart 9be9cc058f593a8f1eec0ca1be704356472f85f7
+   85  git add .\ngit commit -m "Your commit message here"
+   86  git revert 9be9cc058f593a8f1eec0ca1be704356472f85f7
+   87  de160d6674fc81fbd5bf4062df37a41a86e4b7be
+   88  git revert de160d6674fc81fbd5bf4062df37a41a86e4b7be
+   89  git checkout -b br1
+   90  git log --online
+   92  git checkout e821190
+   93  git checkout c65a740
+   94  git checkout fa5c9cc
+   96  sed -i '' '/starship init zsh/d; /zsh-syntax-highlighting.zsh/d' ~/.zshrc\nrm -f ~/.config/starship.toml\nsource ~/.zshrcvvvvv
+   97  mkdir -p ~/.config\nstarship preset pastel-powerline -o ~/.config/starship.toml\necho 'eval "$(starship init zsh)"' >> ~/.zshrc\necho 'source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' >> ~/.zshrc\nsource ~/.zshrc
+   98  sed -i '' '/starship init zsh/d' ~/.zshrc\nsed -i '' '/zsh-syntax-highlighting.zsh/d' ~/.zshrc\nbrew install starship zsh-syntax-highlighting\nbrew install --cask font-jetbrains-mono-nerd-font\nmkdir -p ~/.config\nstarship preset pastel-powerline -o ~/.config/starship.toml\necho 'eval "$(starship init zsh)"' >> ~/.zshrc\necho 'source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' >> ~/.zshrc\nsource ~/.zshrc
+   99  clar
+  100  starship preset nerd-font-symbols -o ~/.config/starship.toml && source ~/.zshrc
+  101  sed -i '' '/starship init zsh/d; /zsh-syntax-highlighting.zsh/d' ~/.zshrc\nrm -f ~/.config/starship.toml\nsource ~/.zshrc
+  102  sed -i '' 's/truncation_length = 3/truncation_length = 0/; s/truncate_to_repo = true/truncate_to_repo = false/' ~/Downloads/setup-terminal.sh
+  103  sed -i '' 's/truncation_length = 3/truncation_length = 0/; s/truncate_to_repo = true/truncate_to_repo = false/' ~/.config/starship.toml
+  104  claer
+  106  git branch br1
+  108  cd Desktop
+  110  brew install nmap
+  111  sudo nmap -sS -p- 10.224.129.X
+  112  sudo nmap -sn 10.224.129.0/24\
+  113  sudo nmap -sn -p 10.224.129.0/24
+  114  sudo nmap -sS 10.224.129.0
+  115  sudo nmap -sS 10.224.129.158
+  116  sudo nmap -sn 10.224.129.0/24
+  117  ssh-copy-id username@10.224.129.196
+  118  ssh-copy-id user@10.224.129.196
+  121  ssh-copy-id root@10.224.129.196
+  122  ssh user@10.224.129.196
+  123  ssh admin@10.224.129.196
+  124  ssh root@10.224.129.196
+  125  sudo nmap -sS -p 1-1000 10.224.129.0/24
+  126  xlear
+  127  cat > ~/.config/starship.toml <<'EOF'\nadd_newline = true\ncommand_timeout = 500\n\nformat = """\n[╭─](bold purple)$directory$git_branch$git_status$nodejs$python$docker_context\n[╰─](bold purple)[⚡](bold yellow) [Developer Studio](bold cyan) $character"""\n\n[character]\nsuccess_symbol = "[»](bold yellow) "\nerror_symbol = "[»](bold red) "\n\n[directory]\nformat = "[📂 $path]($style)[$read_only]($read_only_style) "\ntruncation_length = 0\ntruncate_to_repo = false\nstyle = "bold cyan"\n\n[git_branch]\nformat = "on [⎇ $branch]($style) "\nstyle = "bold purple"\n\n[git_status]\nformat = '([\[$all_status$ahead_behind\]]($style) )'\nstyle = "bold yellow"\n\n[nodejs]\nformat = "[⬢ $version](green) "\n\n[python]\nformat = "[🐍 $version](yellow) "\n\n[docker_context]\nformat = "[🐳 $context](blue) "\n\n[time]\ndisabled = true\n\n[cmd_duration]\ndisabled = true\nEOF
+  148  git checkout br1
+  149  git branch
+  152  git branch -d main
+  153  git branch -d br1
+  159  \nbrew update\n\n#\nbrew install node\n
+  160  npm -v
+  161  ls
+  162  ped
+  163  pwd
+  165  rea --version
+  166  open "/Users/techtomorrow/Desktop/REA/OpenRAWSupersampler.app"
+  177  git checkout 9be9cc0
+  188  git checkout a61c2e808898dfc7f9c591a3f7d8356be5821536
+  190  git reset --hard 9be9cc0
+  197  git reset --hard 9be9cc058f593a8f1eec0ca1be704356472f85f7
+  201  git log --oneline
+  205  git checkout e8211900f7a468a37acded6fde762b23f72eb23d
+  210  git reset --hard e8211900f7a468a37acded6fde762b23f72eb23d
+  223  git reset HEAD
+  228  git reset HEAD~4
+  231  git commit -m "a"
+  234  git reset HEAD~9
+  238  git reset HEAD~8
+  245  git revert HEAD~1
+  248  git add.
+  264  git log --oneline -n 3
+  271  git log --oneline -n 4
+  272  git rebase -i feaaa40
+  289  git reset HEAD~6
+  290  git reset HEAD~3
+  291  git checkout main
+  292  git reset HEAD~1
+  295  ps -p $$ -o comm=
+  296  sh -c echo "WSL=${WSL_DISTRO_NAME:-false}" && echo "SSH=$( [ -n "$SSH_CLIENT" ] || [ -n "$SSH_TTY" ] || [ -n "$SSH_CONNECTION" ] && echo true || echo false )" && echo "DOCKER=$( [ -f /.dockerenv ] && echo true || echo false )" && echo "CYGWIN=${CYGWIN:-false}" && echo "MINGW=${MINGW_PREFIX:-${MSYSTEM:-false}}"
+  297  git reset HEAD~2
+  298  git reset --hard HEAD~2
+  302  git revert HEAD
+  303  git add
+  305  git commit -m "add 1"
+  308  git commit -m "add 2"
+  311  git commit -m "add 3"
+  313  git add .
+  314  git commit -m "add 4"
+  315  git push origin main
+  317  git reset --hard 1a9336bcdccc74b07ffd8e5c0990b5c474556a4c
+  318  git push origin main --force
+  319  git history
+  320  clear
